@@ -9,7 +9,7 @@ html {
     background-color: black;
     font-family: 'Raleway', sans-serif;
   }
-
+  
   /*Navbar*/
 
   .nav-opacidad {
@@ -18,26 +18,34 @@ html {
     color: white;
   }
 
-  /*Quienes Somos y Destacados*/
+/*Quienes Somos y Destacados*/
 
-  .bg-hr {
+.bg-hr {
     background-color:rgb(0, 191, 255);
-   }
+  }
 
-   .text-titulos {
+.text-titulos {
     font-weight: 500;
    }
 
-   .text-parrafos {
+  .text-parrafos {
     font-weight: 300;
    }
 
-   .bg-celeste {
+  .bg-celeste {
     background-color: rgb(0, 191, 255);
    }
 
-     /*Contacto*/
+  /*Contacto*/
 
-     .btn-bg {
+  .btn-bg {
       background-color: rgb(0, 191, 255);
-     }
+  }
+
+  /*Footer*/
+
+  .footer-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
