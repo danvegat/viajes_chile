@@ -17,3 +17,21 @@ html {
     opacity: 0.7;
     color: white;
   }
+
+  /*Quienes Somos y Destacados*/
+
+  .bg-hr {
+    background-color:rgb(0, 191, 255);
+   }
+
+   .text-titulos {
+    font-weight: 500;
+   }
+
+   .text-parrafos {
+    font-weight: 300;
+   }
+
+   .bg-celeste {
+    background-color: rgb(0, 191, 255);
+   }
